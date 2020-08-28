@@ -10,4 +10,4 @@ $ cd guessing_game
 $ cargo build
 $ ./target/guessing_game
 ```
-![](2020-08-28 at 7.09.59 AM.png)
+![](2020-08-28-screen-shot.png)
